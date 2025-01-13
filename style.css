@@ -1,0 +1,28 @@
+h2 {
+    text-align: center;
+    color: blue;
+    font-size: 20;
+    background-color: white;
+}
+h1 {
+    text-align: center;
+    color: orange;
+    font-size: 25;
+    background-color: white;
+}
+p {
+    text-align: center;
+    color: black;
+    font-size: 14;
+}
+button
+{
+  padding: unset;
+  background-color: unset;
+  background-color: black;
+  color: white;
+  border: unset;
+}
+a {
+    text-align: center;
+}
